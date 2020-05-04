@@ -11,10 +11,10 @@ The python script contains only vanilla packages so no need to install any packa
 
 ## Usage
 
-If you're playing the game for the first time I'd recommend running the Python script first, as this will spoil the game. If you're worried about running a random .py script (as you should be) feel free to open the file and you can see that the only packages imported are time, random and itemgetter. Nothing sinister.
+If you're playing the game for the first time I'd recommend against reading the Python script first, as this would spoil the game. If you're worried about running a random .py script (as you should be) feel free to open the file and you can see that the only packages imported are time, random and itemgetter. Nothing sinister.
 
 ## Contributing
-I'm not looking for contributions but feel free to play about with the code if you'd like on your own.
+I'm not looking for contributions but feel free to play about with the code if you'd like.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
